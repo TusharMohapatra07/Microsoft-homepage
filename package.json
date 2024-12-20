@@ -4,7 +4,8 @@
   "description": "This project is a clone of the Microsoft homepage created using HTML and CSS. The layout utilizes CSS grids and flexbox, making it responsive across various devices.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server ."
   },
   "keywords": [],
   "author": "",
